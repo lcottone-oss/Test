@@ -1,2 +1,2 @@
 # Test
-This is me lerning the commit changes.
+This is me learning the commit changes.
